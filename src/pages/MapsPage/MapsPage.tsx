@@ -8,7 +8,6 @@ import { useParams } from 'react-router-dom';
 
 export default function MapsPage() {
   const {branchId} = useParams();
-  console.log(branchId);
 
   return (
     <div>

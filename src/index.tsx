@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {
-  BrowserRouter,
-  Routes,
-  Route,
+  // BrowserRouter,
+  // Routes,
+  // Route,
   HashRouter
 } from 'react-router-dom';
 
@@ -17,9 +17,7 @@ const vh = window.innerHeight / 100;
 document.documentElement.style.setProperty('--vh', `${vh}px`);
 root.render(
   <React.StrictMode>
-    <HashRouter>
       <App />
-    </HashRouter>
   </React.StrictMode>
 );
 

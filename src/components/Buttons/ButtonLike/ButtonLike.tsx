@@ -4,7 +4,6 @@ import { branchProps } from '../../../modules/MapsPage/GroupMapsLink/constans/ty
 
  function ButtonLike({idBranch}: branchProps) {
   const branchId = idBranch;
-  console.log(branchId);
   const link_: string = '/maps/' + branchId;
   return (
 

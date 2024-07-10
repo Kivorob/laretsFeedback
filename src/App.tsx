@@ -3,6 +3,7 @@ import {
   BrowserRouter,
   Routes,
   Route,
+  HashRouter
 } from 'react-router-dom';
 import './App.css';
 import MainPage from './pages/MainPage/MainPage';
@@ -15,13 +16,13 @@ function App() {
   
   return (
     <div >
-     <BrowserRouter>
+     <HashRouter>
      <Routes>
      <Route path='/:branchId' element={<MainPage />} />
       <Route path='/maps/:branchId' element={<MapsPage />} />
       <Route path='/feedback' element={<FeedbackPage />} />
      </Routes>
-     </BrowserRouter>
+     </HashRouter>
 
     </div>
   );
