@@ -1,0 +1,10 @@
+.appeal-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.appeal-img {
+    width: 60%;
+}

@@ -1,0 +1,11 @@
+/* .description_container {
+
+} */
+
+.text {
+    color: white;
+    font-size: 1.4rem;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
