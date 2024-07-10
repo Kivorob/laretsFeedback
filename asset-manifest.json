@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/laretsFeedback/static/css/main.fd1f507d.css",
-    "main.js": "/laretsFeedback/static/js/main.b491d73a.js",
+    "main.js": "/laretsFeedback/static/js/main.4b73bf9d.js",
     "static/js/453.a6a97343.chunk.js": "/laretsFeedback/static/js/453.a6a97343.chunk.js",
     "static/media/organetto-bold.ttf": "/laretsFeedback/static/media/organetto-bold.96bf6c6cd4c740adb66e.ttf",
     "static/media/organetto-bold.svg": "/laretsFeedback/static/media/organetto-bold.f38a497d71f84141617c.svg",
@@ -22,11 +22,11 @@
     "static/media/organetto-bold.eot": "/laretsFeedback/static/media/organetto-bold.31d6cfe0d16ae931b73c.eot",
     "static/media/organetto-bold.woff": "/laretsFeedback/static/media/organetto-bold.31d6cfe0d16ae931b73c.woff",
     "main.fd1f507d.css.map": "/laretsFeedback/static/css/main.fd1f507d.css.map",
-    "main.b491d73a.js.map": "/laretsFeedback/static/js/main.b491d73a.js.map",
+    "main.4b73bf9d.js.map": "/laretsFeedback/static/js/main.4b73bf9d.js.map",
     "453.a6a97343.chunk.js.map": "/laretsFeedback/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd1f507d.css",
-    "static/js/main.b491d73a.js"
+    "static/js/main.4b73bf9d.js"
   ]
 }
