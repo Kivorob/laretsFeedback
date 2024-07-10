@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/laretsFeedback/static/css/main.fd1f507d.css",
+    "main.js": "/laretsFeedback/static/js/main.d0ceccbf.js",
+    "static/js/453.a6a97343.chunk.js": "/laretsFeedback/static/js/453.a6a97343.chunk.js",
+    "static/media/organetto-bold.ttf": "/laretsFeedback/static/media/organetto-bold.96bf6c6cd4c740adb66e.ttf",
+    "static/media/organetto-bold.svg": "/laretsFeedback/static/media/organetto-bold.f38a497d71f84141617c.svg",
+    "static/media/organetto-bold.woff2": "/laretsFeedback/static/media/organetto-bold.8fa6f11159158a48b8ab.woff2",
+    "static/media/vectors-page1_down.svg": "/laretsFeedback/static/media/vectors-page1_down.ba8449c475b52329d1cdc212968ccddb.svg",
+    "static/media/vectors-page1_top.svg": "/laretsFeedback/static/media/vectors-page1_top.12207aa3af055fea3f0431df061b8c50.svg",
+    "static/media/man.svg": "/laretsFeedback/static/media/man.cba651108df3217410567430dd9c6adc.svg",
+    "static/media/google.svg": "/laretsFeedback/static/media/google.aa4fe999bd5cc5c7244d77cfc68be69e.svg",
+    "static/media/diamond.svg": "/laretsFeedback/static/media/diamond.5fbf651b06a6de03cb19fa22178bf1ee.svg",
+    "static/media/logo-text.svg": "/laretsFeedback/static/media/logo-text.2337c63dc7d8ff0ab381125a47f58ea7.svg",
+    "static/media/vectors-page2.svg": "/laretsFeedback/static/media/vectors-page2.639c92d6b8fd709a57d38e714c7c2720.svg",
+    "static/media/2gis.svg": "/laretsFeedback/static/media/2gis.27139eb6b16199e1119ec904277d2d5c.svg",
+    "static/media/vector-page3.svg": "/laretsFeedback/static/media/vector-page3.f9f13ef8e9770f0673e4e8fa4740c14b.svg",
+    "static/media/heart.svg": "/laretsFeedback/static/media/heart.f64ffe6ef505487cb9e5148feddd8673.svg",
+    "static/media/yandex.svg": "/laretsFeedback/static/media/yandex.30ebe18a803d5cccf2431f1edb569052.svg",
+    "static/media/logo.svg": "/laretsFeedback/static/media/logo.db3b090d32347ea120123b78ae2cdeed.svg",
+    "index.html": "/laretsFeedback/index.html",
+    "static/media/organetto-bold.eot": "/laretsFeedback/static/media/organetto-bold.31d6cfe0d16ae931b73c.eot",
+    "static/media/organetto-bold.woff": "/laretsFeedback/static/media/organetto-bold.31d6cfe0d16ae931b73c.woff",
+    "main.fd1f507d.css.map": "/laretsFeedback/static/css/main.fd1f507d.css.map",
+    "main.d0ceccbf.js.map": "/laretsFeedback/static/js/main.d0ceccbf.js.map",
+    "453.a6a97343.chunk.js.map": "/laretsFeedback/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1f507d.css",
+    "static/js/main.d0ceccbf.js"
+  ]
+}
