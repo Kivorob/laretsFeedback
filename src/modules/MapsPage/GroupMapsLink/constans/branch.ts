@@ -53,7 +53,7 @@ export const branches = [
         googleUrl: 'AE%D0%B2%D0%B5%D0%BB%D0%B8%D1%80%D0%BD%D1%8B%D0%B9+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD/@43.1190492,131.8633875,14z/data=!4m10!1m2!2m1!1z0LvQsNGA0LXRhg!3m6!1s0x5fb38d262bc61d65:0x4f0bc41a29fa14f4!8m2!3d43.118871!4d131.8841467!15sCgrQu9Cw0YDQtdGGkgENamV3ZWxyeV9zdG9yZeABAA!16s%2Fg%2F11fcv7rpl_?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D',
         yandexUrl: '1065137661/?ll=131.888298%2C43.118730',
         gisUrl: '70000001007392700/131.884114%2C43.118827/tab/reviews',
-        name: 'Kalinina_15'
+        name: 'Semenovskaya_15'
     }
 ]
 
